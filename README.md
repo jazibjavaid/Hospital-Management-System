@@ -259,3 +259,6 @@ Address entity is related to Patient entity through the foreign key PatientID wh
 </td>
 </tr>
 </table>
+
+
+<img width="984" alt="Screenshot 2023-06-05 at 7 08 56 AM" src="https://github.com/jazibjavaid/Hospital-Management-System/assets/113114087/72a3d367-702b-4214-bf37-975b58466b83">
